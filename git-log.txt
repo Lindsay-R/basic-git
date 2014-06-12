@@ -1,3 +1,43 @@
+commit ca3233ded8767fe17caa54e146db237e638d3057
+Author: Lindsay-R <lrecknell@gmail.com>
+Date:   Thu Jun 12 14:21:42 2014 -0600
+
+    modified again
+
+commit 1e29a5c5dcfff37181e1d94ab3a9f06a5becb018
+Author: Lindsay-R <lrecknell@gmail.com>
+Date:   Thu Jun 12 14:17:14 2014 -0600
+
+    modified hello.txt
+
+commit 870fcc092d0c95b660d8896ef0e5f8bdedd1801f
+Merge: 3b69cd3 72baae3
+Author: Hunter Gillane <hunter.gillane@gmail.com>
+Date:   Thu Jun 12 08:45:16 2014 -0600
+
+    Merge branch 'master' of github.com:jetaggart/basic-git
+    
+    Conflicts:
+    	hello.txt
+
+commit 72baae31db45eba2d718ed78acb16b1774bc70db
+Author: Jeff Taggart <jeff@jetaggart.com>
+Date:   Thu Jun 12 08:44:10 2014 -0600
+
+    Added a line to hello.txt
+
+commit 3b69cd31c00b1cb5a4369b3eff6ad86efd6e5f06
+Author: Hunter Gillane <hunter.gillane@gmail.com>
+Date:   Thu Jun 12 08:44:04 2014 -0600
+
+    edit hello.txt
+
+commit 69fbea3eb218b9df666a148887324cd5bf0626f5
+Author: Jeff Taggart <jeff@jetaggart.com>
+Date:   Thu Jun 12 08:33:19 2014 -0600
+
+    Added git-log.txt
+
 commit 11f6f316e7f421e93e1bf176fd748f6403c1923d
 Author: Jeff Taggart <jeff@jetaggart.com>
 Date:   Thu Jun 12 08:32:30 2014 -0600
