@@ -1,3 +1,34 @@
+commit 12b47ef4989c4749ab714021b722cdba7c362604
+Merge: 19500a1 8a05d7a
+Author: Ashley <a.clarkem@gmail.com>
+Date:   Thu Jun 12 15:16:33 2014 -0600
+
+    finally?
+
+commit 19500a1cfa4ed2a4c5a8039ac5bc895867727aec
+Author: Ashley <a.clarkem@gmail.com>
+Date:   Thu Jun 12 15:04:38 2014 -0600
+
+    Ashley's text
+
+commit 8a05d7a2f32cda4721e92982241e257080b0b311
+Author: Lindsay-R <lrecknell@gmail.com>
+Date:   Thu Jun 12 15:03:55 2014 -0600
+
+    Lindsay's second try
+
+commit e8d302e885fe401c603b2a23745a65008a3709f6
+Author: Lindsay-R <lrecknell@gmail.com>
+Date:   Thu Jun 12 14:40:54 2014 -0600
+
+    Lindsay's Hello
+
+commit acf1a0954f59a8a398bb5aa537f2bd81479cc221
+Author: Lindsay-R <lrecknell@gmail.com>
+Date:   Thu Jun 12 14:29:05 2014 -0600
+
+    our log
+
 commit ca3233ded8767fe17caa54e146db237e638d3057
 Author: Lindsay-R <lrecknell@gmail.com>
 Date:   Thu Jun 12 14:21:42 2014 -0600
